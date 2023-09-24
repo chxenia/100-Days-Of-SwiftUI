@@ -10,5 +10,7 @@ So, very roughly:
 * The game ends after 10 questions, at which point their score is shown.
 So, if the app chose “Rock” and “Win” the player would need to choose “Paper”, but if the app chose “Rock” and “Lose” the player would need to choose “Scissors”.
 
-<div id="header">
-  <img src="app.gif" width="100"/>
+
+
+https://github.com/chxenia/100-Days-Of-SwiftUI/assets/145117372/044a7b0b-b622-48ed-b0f9-3a970e45e262
+
