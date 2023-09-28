@@ -1,4 +1,4 @@
-# Challenge - Day 18
+# Challenge 
 
 Extend the app:
 
