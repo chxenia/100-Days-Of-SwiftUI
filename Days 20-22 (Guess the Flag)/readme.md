@@ -4,3 +4,8 @@
 2. When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
 3. Make the game show only 8 questions, at which point they see a final alert judging their score and can restart the game.
 
+
+
+# Preview:
+https://github.com/chxenia/100-Days-Of-SwiftUI/assets/145117372/24edc07b-e95a-453a-866f-2a846bd524cf
+
