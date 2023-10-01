@@ -21,3 +21,9 @@ At the very least, you should:
 * Once you have your code working, try and see if you can break up your layouts into new SwiftUI views rather than putting everything in ContentView. This requires passing data between views, which isn’t something we’ve covered in detail yet, so in the meantime send data using closures – the button action from your settings view would call a function passed in by the parent view that starts the game with the user’s settings, for example.
 
 # Preview:
+
+
+
+https://github.com/chxenia/100-Days-Of-SwiftUI/assets/145117372/07219bed-cfbe-4c4d-99f8-8b725d640b19
+
+
