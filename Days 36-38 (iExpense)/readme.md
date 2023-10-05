@@ -9,6 +9,11 @@
 * Modified Sheet.
 * Added calculation of total amount of Expenses.
 
+# Preview
+
+https://github.com/chxenia/100-Days-Of-SwiftUI/assets/145117372/979f845e-9b6c-4b8c-9370-9901629ccda1
+
+
 
 
 
