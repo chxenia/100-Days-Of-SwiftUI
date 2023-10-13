@@ -15,6 +15,7 @@ SwiftUI learn basic challenge from [Hacking with Swift](https://www.hackingwiths
 |[29-31](https://www.hackingwithswift.com/100/swiftui/29)| Project 6 | [WordSrcamble](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2029-31%20(Word%20Scramble)) |
 |[32-34](https://www.hackingwithswift.com/100/swiftui/32)| Challenges | [Animation](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2032-34%20(Animation)) |
 |[36-38](https://www.hackingwithswift.com/100/swiftui/36)| Project 7 | [iExpense](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2036-38%20(iExpense)) |
+|[39-42](https://www.hackingwithswift.com/100/swiftui/39)| Project 8 | [Moonshot](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2039-42%20(Moonshot)%20) |
 
 
 ## Intention
