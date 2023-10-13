@@ -7,3 +7,10 @@ At the very least, this means there should be a list of all activities they want
 For a bigger challenge, tapping one of the activities should show a detail screen with the description. For a tough challenge – see the hints below! – make that detail screen contain how many times they have completed it, plus a button incrementing their completion count.
 
 And if you want to make the app really useful, use Codable and UserDefaults to load and save all your data.
+
+# Preview
+
+Uploading Screen Recording 2023-10-13 at 22.15.55.mov…
+
+
+
