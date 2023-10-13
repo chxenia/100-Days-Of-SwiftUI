@@ -18,6 +18,7 @@ SwiftUI learn basic challenge from [Hacking with Swift](https://www.hackingwiths
 |[36-38](https://www.hackingwithswift.com/100/swiftui/36)| Project 8 | [iExpense](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2036-38%20(iExpense)) |
 |[39-42](https://www.hackingwithswift.com/100/swiftui/39)| Project 9 | [Moonshot](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2039-42%20(Moonshot)%20) |
 |[43-46](https://www.hackingwithswift.com/100/swiftui/43)| Project 10 | [Drawing](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2043-46%20(Drawing)) |
+|[47](https://www.hackingwithswift.com/100/swiftui/47)| Project 11 (Milestone 3) | [HabitTrack](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2047%20(Milestone%203:%20HabitTrack)) |
 
 
 ## Intention
