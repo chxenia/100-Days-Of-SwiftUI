@@ -10,7 +10,9 @@ And if you want to make the app really useful, use Codable and UserDefaults to l
 
 # Preview
 
-Uploading Screen Recording 2023-10-13 at 22.15.55.mov…
+
+https://github.com/chxenia/100-Days-Of-SwiftUI/assets/145117372/8cf336e1-d91b-457c-bcf3-436fab56b9ec
+
 
 
 
