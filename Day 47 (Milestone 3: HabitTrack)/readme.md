@@ -10,8 +10,8 @@ And if you want to make the app really useful, use Codable and UserDefaults to l
 
 # Preview
 
+https://github.com/chxenia/100-Days-Of-SwiftUI/assets/145117372/339f1069-f349-420d-9855-0dd6ae1f588b
 
-https://github.com/chxenia/100-Days-Of-SwiftUI/assets/145117372/8cf336e1-d91b-457c-bcf3-436fab56b9ec
 
 
 
