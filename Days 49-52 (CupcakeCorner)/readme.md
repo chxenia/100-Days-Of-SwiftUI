@@ -6,3 +6,6 @@
 * For a more challenging task, see if you can convert our data model from a class to a struct, then create an ObservableObject class wrapper around it that gets passed around. This will result in your class having one @Published property, which is the data struct inside it, and should make supporting Codable on the struct much easier.
 
 # Preview
+
+https://github.com/chxenia/100-Days-Of-SwiftUI/assets/145117372/15ebba13-d7f5-4551-b7de-868056b32b61
+
