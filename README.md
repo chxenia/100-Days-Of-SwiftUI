@@ -21,6 +21,7 @@ SwiftUI learn basic challenge from [Hacking with Swift](https://www.hackingwiths
 |[47](https://www.hackingwithswift.com/100/swiftui/47)| Milestone 3 | [HabitTrack](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2047%20(Milestone%203:%20HabitTrack)) |
 |[48](https://www.hackingwithswift.com/100/swiftui/48)| Expanding the horizons | [StarWars]() |
 |[49-52](https://www.hackingwithswift.com/100/swiftui/47)| Project 10 | [CupcakeCorner]() |
+|[53-56](https://www.hackingwithswift.com/100/swiftui/53)| Project 11 | [Bookworm]() |
 
 
 
