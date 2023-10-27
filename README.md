@@ -11,7 +11,7 @@ SwiftUI learn basic challenge from [Hacking with Swift](https://www.hackingwiths
 |[3](https://www.hackingwithswift.com/100/swiftui/3)| Day 3 | [Arrays, Dictionaries, Sets, Enumerations](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2003) |
 |[4](https://www.hackingwithswift.com/100/swiftui/4)| Day 4 (Checkpoint 2) | [Arrays, Dictionaries, Sets, Enumerations](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2004) |
 |[5](https://www.hackingwithswift.com/100/swiftui/5)| Day 5 | [Conditions, Switch statements, The ternary operator](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2005) |
-|[6](https://www.hackingwithswift.com/100/swiftui/6)| Day 6 (Checkpoint 3)| [Conditions, Switch statements, The ternary operator](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2005) |
+|[6](https://www.hackingwithswift.com/100/swiftui/6)| Day 6 (Checkpoint 3)| [Conditions, Switch statements, The ternary operator](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2006) |
 |[16-18](https://www.hackingwithswift.com/100/swiftui/16)| Project 1 | [WeSplit](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2016-18%20(WeSplit)) |
 |[19](https://www.hackingwithswift.com/100/swiftui/19)| Project 2 | [Convertions](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2019%20(Challenge)) |
 |[20-22](https://www.hackingwithswift.com/100/swiftui/22)| Project 3 | [Guess The Flag](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2020-22%20(Guess%20the%20Flag)) |
