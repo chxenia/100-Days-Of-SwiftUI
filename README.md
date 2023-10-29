@@ -17,7 +17,8 @@ SwiftUI learn basic challenge from [Hacking with Swift](https://www.hackingwiths
 |[9](https://www.hackingwithswift.com/100/swiftui/9)| Day 9 (Checkpoint 5)| [Writing functions, Tuples, Omitting parameter labels](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2009) |
 |[10](https://www.hackingwithswift.com/100/swiftui/10)| Day 10 | [Structs, Property observers, Initializers](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2010) |
 |[11](https://www.hackingwithswift.com/100/swiftui/11)| Day 11 (Checkpoint 6) | [Structs, Property observers, Initializers](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2011) |
-|[12](https://www.hackingwithswift.com/100/swiftui/12)| Day 12 | [](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2012) |
+|[12](https://www.hackingwithswift.com/100/swiftui/12)| Day 12 (Checkpoint 7)| [Structs, Property observers, Initializers](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2012) |
+|[13](https://www.hackingwithswift.com/100/swiftui/13)| Day 13 | [](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2013) |
 |[16-18](https://www.hackingwithswift.com/100/swiftui/16)| Project 1 | [WeSplit](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2016-18%20(WeSplit)) |
 |[19](https://www.hackingwithswift.com/100/swiftui/19)| Project 2 | [Convertions](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Day%2019%20(Challenge)) |
 |[20-22](https://www.hackingwithswift.com/100/swiftui/22)| Project 3 | [Guess The Flag](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2020-22%20(Guess%20the%20Flag)) |
