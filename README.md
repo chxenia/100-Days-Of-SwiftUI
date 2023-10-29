@@ -43,7 +43,7 @@ SwiftUI learn basic challenge from [Hacking with Swift](https://www.hackingwiths
 |[48](https://www.hackingwithswift.com/100/swiftui/48)| Expanding the horizons | [StarWars]() |
 |[49-52](https://www.hackingwithswift.com/100/swiftui/47)| Project 10 | [CupcakeCorner](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2049-52%20(CupcakeCorner)) |
 |[53-56](https://www.hackingwithswift.com/100/swiftui/53)| Project 11 | [Bookworm](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2053-56%20(Bookworm)) |
-|[57-59](https://www.hackingwithswift.com/100/swiftui/57)| Project 12 | [CoreData](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2053-56%20(CoreData)) |
+|[57-59](https://www.hackingwithswift.com/100/swiftui/57)| Project 12 | [CoreData](https://github.com/chxenia/100-Days-Of-SwiftUI/tree/main/Days%2057-59%20(CoreData)) |
 
 
 
